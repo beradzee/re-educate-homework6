@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(245, 227, 227);
+}
+* {
+    text-align: center;
+}
+
+.table {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-collapse: collapse; 
+    color: white;
+    width: 350px;
+    height: 200px;
+    background-color: green;
+    font-size: 17px;
+    border-bottom: 2px solid green;
+}
+.thead {
+
+    color: white;
+    font-size: 19px;
+    height: 25%;
+    
+
+    
+
+}
+.tr2 {
+    background-color: rgb(204, 255, 182);
+    color: rgb(1, 106, 1);
+    
+}
+.tbody {
+    color: black;
+            
+    font-weight: 900;
+    background-color: white;
+    
+}
+.tbody1 {
+    background-color: rgb(171, 250, 171);
+    color: rgb(1, 99, 1);
+
+    font-weight: 900;
+    
+}
+
